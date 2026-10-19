@@ -32,3 +32,6 @@ Our projects and case studies will be published here as we build and improve our
 For project inquiries and collaboration, contact us through GitHub.
 
 DUO 13 — Two Minds. One Vision.
+<p align="center">
+  <img src="./duo13-logo.png" alt="DUO 13 Logo" width="260">
+</p>
